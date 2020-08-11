@@ -12,3 +12,6 @@ At this first stage, I will start to analyze 3 points: How the cases(total and d
 
 ## Employment Rate
 1. OECD Data
+
+## Unemployment Insurance Data from 2010 - 2021
+1. U.S. Department of Labor
